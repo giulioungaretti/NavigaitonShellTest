@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NavigationShellTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NavigationShellTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
